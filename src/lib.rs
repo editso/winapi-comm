@@ -1,8 +1,8 @@
 mod def;
 
-mod kernal32;
+mod kernel32;
 
 pub use def::*;
-pub use kernal32::*;
+pub use kernel32::*;
 
 
