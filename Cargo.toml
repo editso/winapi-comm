@@ -9,3 +9,4 @@ repository = "https://github.com/editso/winapi-comm"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+c2rs = "0.1.2"
